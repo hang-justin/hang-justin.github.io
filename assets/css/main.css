@@ -33,6 +33,11 @@ body {
 	line-height: 1;
 }
 
+/* Customizations */
+.justify-ctr {
+	justify-content: center;
+}
+
 ol, ul {
 	list-style: none;
 }
