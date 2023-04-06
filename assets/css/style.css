@@ -172,6 +172,11 @@ blockquote * {
   text-align: center;
 }
 
+.skills-details-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 /* main nav */
 
 nav {
